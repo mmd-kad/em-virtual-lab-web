@@ -1,0 +1,15 @@
+# Logs
+logs
+*.log
+
+node_modules
+dist
+.wrangler
+.dev.vars
+.env*
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
